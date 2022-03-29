@@ -1,0 +1,894 @@
+arterial calcification of infancy
+creutzfeldt-jakob disease
+rhinosinusitis
+early-stage colon carcinoma
+cutaneous lupus erythematosus
+adenovirus infection
+pancreatic adenocarcinoma
+aortic insufficiency
+myelofibrosis
+granular corneal dystrophy
+"carcinoma, skin"
+hemoglobin diseases
+myasthenia gravis
+familial mediterranean fever
+pelvic organ prolapse
+aortic stenosis
+iron metabolism disease
+acute myocardial infarction
+respiratory system disease
+"diabetes mellitus, type 1"
+roberts syndrome
+"aortic aneurysm, thoracic"
+"fatty liver, non-alcoholic"
+bladder neoplasms
+"carcinoma, periampullary"
+multiple sclerosis
+intermittent claudication
+chronic heart failure
+thymoma
+hepatic veno-occlusive disease
+tuberculosis
+age-related macular degeneration
+preeclampsia
+idiopathic asthenospermia
+viral infectious disease
+glycogen storage disease ii
+ependymoma
+autoimmune diseases [unspecific]
+pituitary neoplasms
+"muscular dystrophy, facioscapulohumeral"
+"fibromatosis, aggressive"
+early-stage lung carcinoma
+vasculitis
+early-stage non-small-cell lung carcinoma
+kidney injury
+polyangiitis
+waldenstrom macroglobulinemia
+monocytic leukemia
+acute liver failure
+eosinophilic esophagitis
+intellectual disability
+pulmonary sarcoidosis
+hyperglycemia
+"squamous cell carcinoma, skin or unspecific"
+urinary bladder cancer
+mesothelioma
+long qt syndrome
+cervicitis
+bone disease [unspecific]
+uremic neuropathy
+"adenocarcinoma, endometrial"
+uterine leiomyoma
+early-stage small-cell lung carcinoma
+retinal vascular disease
+non-sensory diseases
+"carcinoma, gingival"
+"carcinoma, breast, triple negative"
+severe acute respiratory syndrome virus infection
+vascular injuries
+nasopharyngeal neoplasms
+non-traumatic osteonecrosis
+diabetic foot
+aneurysmal subarachnoid hemorrhage
+atrial fibrillation
+diabetes mellitus
+stroke
+anemia
+chronic alcohol-induced alveolar macrophage dysfunction
+"carcinoma, prostate"
+uterine corpus choriocarcinoma
+"adenocarcinoma, lung"
+costello syndrome
+soft tissue sarcoma
+"carcinoma, renal cell"
+acute cerebral ischemia
+myotonic dystrophy type 1
+coronavirus infections
+venous thromboembolism
+crohn disease
+hyperlipidemia
+myocardial infarction
+"carcinoma, salivary adenoid cystic"
+periodontal diseases
+ileus
+bicuspid aortic valve disease
+thrombocytopenia
+germ cell and embryonal neoplasms
+muscular dystrophy
+hepatocellular carcinoma
+cardiovascular diseases [unspecific]
+head and neck neoplasms
+ovarian serous cystadenocarcinoma
+"chromosome 22q11.2 deletion syndrome, distal"
+rheumatic myocarditis
+"niemann-pick disease, type c"
+embryonal testis carcinoma
+african swine fever
+cardiac myxoma
+behcet disease
+diabetic encephalopathy
+endomyocardial fibrosis
+obesity
+helicobacter pylori infection
+hereditary breast carcinoma
+dementia
+sensorineural hearing loss
+hypoxia
+ovarian disease
+neuropathic pain
+recurrent spontaneous abortion
+chikungunya virus infection
+transitional cell carcinoma
+rhabdomyosarcoma
+nephrosclerosis
+chronic hepatitis c
+inflammatory bowel diseases
+atrioventricular septal defect
+lipid metabolism disorder
+fibromyalgia
+small intestine carcinoma
+sepsis
+uveitis
+"carcinoma, renal cell, chromophobe"
+"carcinoma, lung"
+muscle diseases [unspecific]
+methylmalonic acidemia
+uterine leiomyosarcoma
+"carcinoma, basal cell"
+cerebellum cancer
+liver injury
+"carcinoma, thyroid"
+"carcinoma, ovarian"
+penis carcinoma
+hemangioma
+atypical teratoid tumor
+lichen planus
+plasmodium falciparum malaria
+osteogenesis imperfecta
+x-linked alport syndrome
+"squamous cell carcinoma, tongue"
+recurrent wheezing
+muscle atrophy
+uterine corpus serous adenocarcinoma
+glioblastoma
+hypoxic-ischemic encephalopathy
+chronic brucellosis
+acute brucellosis
+huntington disease
+porphyromonas gingivalis
+tetralogy of fallot
+"carcinoma, neuroendocrine"
+lynch syndrome
+sjogren syndrome
+acute cerebral infarction
+idiopathic pulmonary hypertension
+idiopathic scoliosis
+spinal muscular atrophy
+prostate disease
+fetal alcohol spectrum disorder
+tongue neoplasms
+dengue virus infection
+light-induced retinal injury
+lymphoma
+ossification of posterior longitudinal ligament
+fever
+mitochondrial encephalomyopathy
+placenta cancer
+pterygium
+diffuse lipomatosis
+alopecia
+infertility
+atherosclerosis
+short bowel syndrome
+pneumonia
+malignant peripheral nerve sheath tumor
+wound healing
+osteoarthritis
+breast neoplasms
+hyperlipoproteinemia type iii
+friedreich ataxia
+chronic inflammatory pain
+multiple system atrophy
+"carcinoma, rectal"
+"lymphoma, large b-cell"
+acute pancreatitis
+hemophilia a
+pleural mesothelioma
+gastrointestinal neoplasms
+"neovascularization, pathologic"
+idiopathic pulmonary fibrosis
+vulvar squamous cell carcinoma
+charcot-marie-tooth disease type 1a
+myositis ossificans
+melasma
+medulloepithelioma
+keratitis
+angiosarcoma
+pediatric ependymoma
+"lymphoma, primary effusion"
+liver failure
+balkan nephropathy
+gaucher disease
+congenital deafness
+seizures
+odontogenic tumors
+kideny transplant rejection
+varicella
+"squamous cell carcinoma, cerevial"
+peritoneal dialysis failure
+diabetic polyneuropathy
+fragile x syndrome
+kidney osteogenic sarcoma
+oral leukoplakia
+coxsackievirus infection
+diabetic nephropathy
+learned helplessness
+epithelioid sarcoma
+becker muscular dystrophy
+eclampsia
+chlamydial infection 
+ischemic heart disease
+graft-versus-host disease
+status epilepticus
+congenital heart diseases
+kawasaki syndrome
+allergy
+childhood obesity
+gastric neoplasms
+"adenocarcinoma, cervical"
+gestational trophoblastic disease
+japanese encephalitis virus infection
+alzheimer disease
+"carcinoma, pancreatic"
+knee osteoarthritis
+spinal chordoma
+"diabetes mellitus, gestational"
+otitis media
+"carcinoma, urothelial, upper tract"
+acute ischemic stroke
+premature ovarian failure
+early-stage lung adenocarcinoma
+chronic hepatitis
+rectum adenocarcinoma
+"leukemia, biphenotypic, acute"
+"leukemia, myeloid, chronic"
+patau syndrome
+atrophic gastritis
+diabetic cataract
+adenosquamous pancreas carcinoma
+"squamous cell carcinoma, lung"
+colorectal adenoma
+corneal neovascularization
+emphysema
+"carcinoma, lung, non-small-cell"
+pancreatic neoplasms
+musculoskeletal abnormalities [unspecific]
+hemangiosarcoma
+neurodegenerative diseases [unspecific]
+ebola hemorrhagic fever
+"squamous cell carcinoma, head and neck"
+"neuralgia, postherpetic"
+pediatric glioma
+osteomyelitis
+li-fraumeni syndrome
+mast cell neoplasm
+asthma
+skin hemangioma
+hypogonadism
+"carcinoma, ovarian, clear cell"
+myocardial ischemic-reperfusion injury
+interstitial cystitis
+pregnancy complications [unspecific]
+mycobacterium avium complex disease
+oral lichen planus
+crohn colitis
+cholangiocarcinoma
+"carcinoma, thyroid, medullary"
+endometrial stromal sarcoma
+viral myocarditis
+infectious bursal disease virus
+anxiety
+"allergic rhinitis,perennial"
+cytomegalovirus retinitis
+nevus
+non-syndromic orofacial clefts
+coronary artery disease
+selective ige deficiency disease
+distal myopathy
+carotid artery diseases
+gastroduodenal ulcer
+"constriction, pathologic"
+human immunodeficiency virus infection
+allergic rhinitis
+"carcinoma, hepatocellular, hbv-related"
+retinitis pigmentosa
+early-stage breast carcinoma
+skin neoplasms
+johne disease
+cornea squamous cell carcinoma
+osteoporosis
+intrahepatic cholangiocarcinoma
+graves ophthalmopathy
+foot-and-mouth disease
+hepatitis c virus infection
+wounds and injuries [unspecific]
+perlman syndrome
+rapidly progressive glomerulonephritis
+esophagitis
+"shock, hemorrhagic"
+neoplasms [unspecific]
+systemic mastocytosis
+macular degeneration
+"diabetes mellitus, type 2"
+thyroid-associated ophthalmopathy
+"colitis, ulcerative"
+bronchopulmonary dysplasia
+"lymphoma, t-cell"
+"carcinoma, hepatocellular, hcv-related"
+kaposi sarcoma
+hantavirus infection
+tourette syndrome
+dental enamel hypoplasia
+celiac disease
+"carcinoma, tounge"
+peritoneal fibrosis
+cerebral malaria
+diabetic vasculopathy
+"carcinoma, adrenocortical"
+"carcinoma, thyroid, follicular"
+"leukemia, lymphocytic, chronic, b-cell"
+osteosarcoma
+mandibular prognathism
+hypercholesterolaemia
+prostate neoplasms
+"leukemia, lymphoblastic, acute, b-cell"
+malt lymphoma
+salivary gland neoplasms
+lesch-nyhan syndrome
+prion diseases
+mitral valve disease
+early-stage colon adenocarcinoma
+cataract
+prader-willi syndrome
+heart diseases [unspecific]
+hepatoblastoma
+diabetic retinopathy
+sezary disease
+hearing disorders
+dyspepsia
+mild cognitive impairment
+ewing sarcoma
+visceral leishmaniasis
+gliosis
+peripheral nervous system diseases
+autism spectrum disorder
+"carcinoma, breast"
+cardiac myocyte injury
+frontotemporal lobar degeneration
+sarcomatoid mesothelioma
+intestinal barrier dysfunction
+pten hamartoma tumor tyndrome
+ankylosing spondylitis
+tauopathy
+hyperuricemia
+urinary system cancer
+acquired immunodeficiency syndrome
+b-cell childhood acute lymphoblastic leukemia
+"carcinoma, endometrioid endometrial"
+kidney neoplasms
+iga nephropathy
+skin injury
+essential thrombocythemia
+inherited hemoglobin disease
+demyelinating diseases
+lung fibrosis
+spondylarthritis
+pancreatic intraductal papillary mucinous neoplasms
+adrenal cortex neoplasms
+uterine corpus endometrial carcinoma
+uterine cancer
+uterine corpus myxoid leiomyosarcoma
+lymphocytic choriomeningitis
+breast malignant phyllodes tumor
+ischemia
+burns
+endometrial neoplasms
+cardiac fibrosis
+pheochromocytoma
+diabetic peripheral neuropathy
+fungal keratitis
+"lymphoma, burkitt"
+hyperactivity disorder
+uveal melanoma
+habitual abortion
+vascular disease [unspecific]
+lymphoproliferative disorders
+"stroke, hemorrhagic"
+diabetic cardiomyopathies
+myotonic muscular dystrophy
+"carcinoma, renal cell, clear-cell"
+infection [unspecific]
+ectopic pregnancy
+"squamous cell carcinoma, maxillary sinus"
+hemophagocytic lymphohistiocytosis
+proliferative vitreoretinal disease
+skin disease [unspecific]
+multiple endocrine neoplasia type 1
+atopic dermatitis
+"carcinoma, supraglottic"
+"leukemia-lymphoma, adult t-cell"
+essential hypertension
+cystic fibrosis
+biliary tract neoplasms
+psoriasis
+focal segmental glomerulosclerosis
+glomerulosclerosis
+non-neoplastic diseases
+sertoli cell-only syndrome
+hellp syndrome
+"leukemia, t-cell"
+systemic lupus erythematosus
+hypertrophic scar
+"lymphoma, follicular"
+glioblastoma mesenchymal subtype
+bladder fibrosis
+lymphedema
+"lymphoma, extranodal nk-t-cell"
+persistent fetal circulation syndrome
+prediabetes
+central nervous system embryonal tumor
+psychotic disorders
+"carcinoma, gallbladder"
+vasomotor rhinitis
+hiv-associated lipodystrophy
+preterm labor
+lung neoplasms
+vitiligo
+"leukemia, lymphoblastic, acute, t-cell"
+"adenocarcinoma, pancreatic ductal"
+liver diseases [unspecific]
+focal epithelial hyperplasia
+inflammation
+schizophrenia
+lepromatous leprosy
+"systemic lupus erythematosus, with pericarditis"
+colon neoplasms
+thyroid neoplasms
+chagas disease
+aortic valve disease
+cerebral cavernous malformations
+primary immunodeficiency disease
+myositis
+wilms tumor
+neuroepithelial tumors
+"carcinoma, embryonal"
+down syndrome
+posterior capsule opacification
+"leukemia, lymphoblastic"
+polycystic ovarian syndrome
+liver transplant rejection
+necrotizing enterocolitis
+mycobacterium tuberculosis infection
+thrombosis
+obstructive sleep apnea
+smoke inhalation injury
+chronic hepatitis b
+"leukemia-lymphoma, precursor t-cell lymphoblastic"
+arthritis
+colitis
+juvenile rheumatoid arthritis
+intracranial aneurysm
+coloboma
+neurofibromatosis type 2
+arteriovenous malformation
+spinal stenosis
+neuronal apoptosis-related diseases
+allergic contact dermatitis
+hirschsprung disease
+myeloma
+colon adenoma
+neutropenia
+carcinosarcoma
+hearing loss
+primary sclerosing cholangitis
+squamous cell carcinoma
+cardiomyopathy
+"cardiomyopathy, ischemic"
+evans syndrome
+nasal cavity inverting papilloma
+major depressive disorder
+sickle cell anemia
+silicosis
+"carcinoma, oropharyngeal"
+retinal degeneration
+barrett esophagus
+acute peritonitis
+fabry disease
+primary aldosteronism
+stevens-johnson syndrome
+"carcinoma, head and neck"
+intraductal papillary mucinous neoplasms
+"child development disorders, pervasive"
+renal fibrosis
+cervix endometrial stromal tumor
+meningitis
+uterine carcinosarcoma
+thyroid lymphoma
+"leukemia, myeloid, acute"
+rheumatic heart diseases
+chronic pancreatitis
+medulloblastoma
+hepatitis [unspecific]
+congenital myasthenic syndrome
+"lymphoma, mantle-cell"
+antiphospholipid syndrome
+nephrotic syndrome
+breast adenocarcinoma
+wound inflammation
+synovial sarcoma
+pulmonary hypertension
+allergic asthma
+guillain-barre syndrome
+myelodysplastic syndromes
+disease of metabolism
+granulosa cell tumor
+pediatric osteosarcoma
+primary biliary cirrhosis
+toxoplasma gondii infection
+cerebral aneurysm
+cardiac allograft vasculopathy
+ganglioglioma
+"carcinoma, nasopharyngeal"
+"squamous cell carcinoma, laryngeal or hypopharyngeal"
+leiomyoma
+"lymphoma, large-cell, anaplastic"
+pancreatic serous cystic neoplasm
+hyperhomocysteinemia
+pancreatic diseases
+rheumatoid arthritis
+oral submucous fibrosis
+holt-oram syndrome
+"lymphoma, large b-cell, diffuse"
+"stroke, ischemic"
+interstitial lung disease
+"adenocarcinoma, sebaceous"
+bladder outlet obstruction
+alcoholic cardiomyopathy
+hidradenitis suppurativa
+fibrosarcoma
+"squamous cell carcinoma, sinonasal"
+intervertebral disc degeneration
+prolactinoma
+"carcinoma, thyroid, papillary"
+tibial meniscus injuries
+pain
+bipolar disorder
+migraine
+esophageal neoplasms
+neuroblastoma
+keloid
+hypogonadotropic hypogonadism
+ovarian neoplasms
+chromosome 15q13.3 microdeletion syndrome
+acute coronary syndrome
+"carcinoma, urothelial"
+"carcinoma, adenoid cystic"
+fuchs endothelial dystrophy
+"meningitis, pneumococcal"
+"shock, septic"
+"carcinoma, endometrial"
+hepatitis b virus infection
+chondrosarcoma
+"scleroderma, localized"
+dengue shock syndrome
+asthenozoospermia
+"leukemia, myeloid, acute, pediatric"
+ovary mixed epithelial carcinoma
+sebaceous carcinoma
+parkinson disease
+"squamous cell carcinoma, oral"
+cor pulmonale
+lupus vulgaris
+epilepsy
+dermatomyositis
+pituitary adenoma
+neurilemmoma
+salivary gland disease
+"carcinoma, ehrlich tumor"
+bronchiolitis obliterans syndrome
+"leukemia, myelogenous, chronic, bcr-abl positive"
+male infertility
+proliferative glomerulonephritis
+fanconi anemia
+endometriosis
+laryngeal neoplasms
+aortic aneurysm
+"carcinoma, merkel cell"
+plasmodium vivax infection
+polycythemia vera
+gastrointestinal stromal tumor
+vogt-koyanagi-harada disease
+chorioamnionitis
+enteropathy
+anxiety disorders
+machado-joseph disease
+liver neoplasms
+cocaine abuse
+anus neoplasm
+idiopathic short stature
+psychiatric disorders
+mesial temporal lobe epilepsy
+growth disorders
+chronic kidney disease
+early-stage cervical squamous cell carcinoma
+lofgren syndrome
+retinoblastoma
+"leukemia, b-cell"
+inner ear inflammation
+"adenocarcinoma, ampullary"
+diarrhea
+immune system disease [unspecific]
+"carcinoma, oral"
+early-stage gastric carcinoma
+"carcinoma, biliary tract"
+blood coagulation disorders
+"carcinoma, pancreatic ductal"
+melas syndrome
+teratocarcinoma
+traumatic brain injury
+pulmonary embolism
+narcolepsy
+somatotropinoma
+"carcinoma, thyroid, anaplastic"
+"leukemia, myeloid, chronic-phase"
+intestinal schistosomiasis
+thrombocytosis
+bronchopneumonia
+generalized epilepsy with febrile seizures plus
+coronary restenosis
+"cytotoxicity tests, immunologic"
+pancreatic endocrine carcinoma
+macroglobulinemia
+mastitis
+neuroendocrine tumors
+fatty liver [unspecific]
+"cardiomyopathy, dilated"
+gerstmann-straussler-scheinker syndrome
+"carcinoma, bladder"
+follicular atresia
+"carcinoma, esophageal"
+acute lung injury
+lyme disease
+chronic inflammation
+unstable angina
+invasive bladder transitional cell carcinoma
+testicular neoplasms
+lacrimal adenoid cystic carcinoma
+osteopetrosis
+"leukemia, myeloid"
+chronic fatigue syndrome
+moyamoya disease
+encephalitis
+"carcinoma, gastric, signet ring cell"
+peripheral nerve injury
+brain neoplasms
+vascular myelopathy
+chronic pain
+reproductive system disease
+acute kidney failure
+immune thrombocytopenic purpura
+cartilage disease [unspecific]
+hemoglobinopathy
+human papilloma virus infection
+mycosis fungoides
+colorectal adenocarcinoma
+sarcoma [unspecific]
+hereditary hemorrhagic telangiectasia
+periodontitis
+biliary atresia
+osteonecrosis
+myeloproliferative neoplasms
+alcohol use disorder
+nut midline carcinoma
+leiomyosarcoma
+digestive system neoplasms
+coronary atherosclerosis
+breast ductal carcinoma
+borna disease
+post-traumatic stress disorder
+lupus nephritis
+cholestasis
+"adenocarcinoma, gastric-esophageal junction"
+hypertension
+nephrolithiasis
+toxic encephalopathy
+meningioma
+cardiometabolic disorders
+"squamous cell carcinoma, esophageal"
+heart failure
+oral neoplasms
+salmonellosis
+enterovirus infection
+influenza
+"carcinoma, hepatocellular"
+"aortic aneurysm, abdominal"
+amyloidosis
+heart transplant rejection
+leprosy
+mitochondrial metabolism disease
+aplastic anemia
+frontotemporal dementia
+amyotrophic lateral sclerosis
+ocular motility disease
+ovarian germ cell cancer
+choriocarcinoma
+"adenocarcinoma, prostate"
+lung disease [unspecific]
+pemphigus
+psoriatic arthritis
+"leukemia-lymphoma, precursor b-cell lymphoblastic"
+angiomyolipoma
+carotid atherosclerosis
+"muscular dystrophy, duchenne"
+encephalomyelitis
+mucosulfatidosis
+myxoid liposarcoma
+giant cell tumor of bone
+chronic obstructive pulmonary disease
+proliferative diabetic retinopathy
+autoimmune lymphoproliferative syndrome
+"carcinoma, ovarian, serous"
+"tuberculosis, pulmonary"
+pelvic inflammatory disease
+white spot syndrome virus infection
+cone dystrophy
+rhabdoid cancer
+glioma
+renal oncocytoma
+"leukemia, lymphoblastic, acute"
+autosomal dominant polycystic kidney disease
+mountain sickness
+heart valve disease
+ischemia-reperfusion injury
+neuropsychiatric disorders [unspecific]
+congenital hypothyroidism
+myopia
+polycystic kidney disease
+"leukemia, acute"
+aneurysm
+acute heart failure
+"osteoporosis, postmenopausal"
+acute megakaryoblastic leukemia
+malignant neoplasms [unspecific]
+androgenetic alopecia
+ischemic diseases [unspecific]
+hematologic neoplasms
+respiratory syncytial virus pneumonia
+kidney diseases [unspecific]
+graves disease
+choroidal neovascularization
+"carcinoma, laryngeal"
+"fatty liver, alcoholic"
+microvascular disease
+retinal neovascularization
+gallstones
+"carcinoma, gastrooesophageal"
+cerebrovascular disease
+cryptosporidium infection
+"small cell carcinoma, esophageal"
+non specific chronic endometritis
+nervous system diseases [unspecific]
+"cardiomyopathy, hypertrophic"
+rectal neoplasms
+autoimmune thyroiditis
+chromosome 5q deletion syndrome
+endocrine gland neoplasms
+colorectal carcinoma
+acute respiratory distress syndrome
+childhood leukemia
+sickle cell disease
+depression disorder
+brain disease [unspecific]
+cervical neoplasms
+"liver diseases, alcoholic"
+progressive supranuclear palsy
+borjeson-forssman-lehmann syndrome
+astrocytoma
+autoimmune hepatitis
+legg-calve-perthes disease
+"adenocarcinoma, esophageal"
+"lymphoma, t-cell, cutaneous"
+melanoma
+cerebral ischemia
+chordoma
+hypohidrotic ectodermal dysplasia
+digeorge syndrome
+"carcinoma, gastric"
+"carcinoma, cervical"
+liposarcoma
+alveolar rhabdomyosarcoma
+arrhythmia
+pallister-killian syndrome
+azoospermia
+toxic epidermal necrolysis
+epstein-barr virus infection
+"carcinoma, vulvar"
+thyroid adenomas
+"adenocarcinoma, colon"
+complex regional pain syndrome
+cutaneous melanoma
+"scleroderma, systemic"
+"adenocarcinoma, gastric"
+porcine reproductive and respiratory syndrome virus infection
+"carcinoma, colon"
+vulvar squamous tumor
+blindness
+multiple myeloma
+"hand, foot and mouth disease"
+hemophilus influenzae infection
+irritable bowel syndrome
+liver cirrhosis
+seminoma
+peri-implantitis
+marek disease
+arteriovenous malformations of the brain
+neuroma
+glomerulonephritis
+lung injury [unspecific]
+subacute sclerosing panencephalitis
+congenital diaphragmatic hernia
+"lymphoma, b-cell"
+hepatic ischemia-reperfusion injury
+hepatitis e virus infection
+human cytomegalovirus infection
+"leukemia, lymphoblastic, acute, childhood"
+varicocele
+peripheral vascular disease
+congenital microtia
+parathyroid carcinoma
+neuroinflammation
+autistic disorder
+gastric cardia adenocarcinoma
+cardio-renal syndrome
+gout
+hypertrophy
+leishmaniasis
+oligodendroglioma
+"lymphoma, hodgkin"
+hailey-hailey disease
+cardiomegaly
+feingold syndrome
+cholesteatoma
+alcoholic hepatitis
+testicular germ cell tumor
+liver fibrosis
+pineal gland cancer
+germ cell tumor
+listeriosis
+metabolic syndrome
+glaucoma
+intracerebral hemorrhage
+sciatic nerve injury
+anaplastic astrocytoma
+tooth agenesis
+endotoxemia
+cardiotoxicity
+"carcinoma, mucoepidermoid"
+"lymphoma, non-hodgkin"
+peritoneal neoplasms
+leukemia
+bone cancer
+panic disorder
+vascular hypertrophy
+"carcinoma, lung, small-cell"
+frailty
+head and neck adenoid cystic carcinoma
+aniridia
+"leukemia, promyelocytic, acute"
+cleidocranial dysplasia
+spinal cord injuries
+arteriosclerosis obliterans
+acute erythroid leukemia
+chronic cerebral hypoperfusion
+eczema herpeticum
